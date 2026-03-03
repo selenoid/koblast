@@ -51,6 +51,12 @@
         "projectId": "ac98d08b-36ac-452f-854f-cdefd71d6df2"
       }
     },
-    "owner": "selenoid"
+    "owner": "selenoid",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ac98d08b-36ac-452f-854f-cdefd71d6df2"
+    }
   }
 }
