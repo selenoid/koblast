@@ -19,8 +19,7 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.koblast"
+      "predictiveBackGestureEnabled": false
     },
     "web": {
       "output": "static",
@@ -44,13 +43,6 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "ac98d08b-36ac-452f-854f-cdefd71d6df2"
-      }
-    },
-    "owner": "selenoid"
+    }
   }
 }
